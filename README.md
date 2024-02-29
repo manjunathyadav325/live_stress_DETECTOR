@@ -1,4 +1,4 @@
-# EMOTION_DETECTOR
+# live_stress_DETECTOR
 Welcome to this code snippet that demonstrates real-time emotion and stress detection using a webcam! This script utilizes OpenCV and DeepFace libraries to detect faces from the webcam feed, analyze emotions, calculate stress levels based on facial expressions, and overlay the detected emotions and stress on the video feed. Additionally, it provides certain sources to overcome stress.
 
 🔍 Key Components:
